@@ -64,8 +64,10 @@ cover.png             card image
 
 ## Verification
 
-<!-- squeekchain-verify -->
-This repository is the source of the live site verified on the Squeekchain Genesis Code Lane.
+squeekchain-project: 2bc29163-ecb2-4f1a-808c-25b31d63ce1c
+
+This repository is the source of the live site verified on the Squeekchain Genesis Code Lane
+(<https://squeekast.mooo.com/>).
 
 ## License
 
